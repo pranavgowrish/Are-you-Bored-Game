@@ -13,3 +13,5 @@ Includes 7 different games that loop randomly.
 7. Mystery Pathway: Time Trouble
 
 At the end, creates user certificate with scores from each game!
+
+(Main Method is in bored.java)
